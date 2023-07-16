@@ -8588,7 +8588,7 @@ function create_fragment$6(ctx) {
 				image: { "alt": "", "url": "" },
 				title: "Blog",
 				description: "",
-				heading: "a profile page & content",
+				heading: "a Sales page & content",
 				form: {
 					"endpoint": "https://formsubmit.co/your@email.com",
 					"placeholder": "Email address",
